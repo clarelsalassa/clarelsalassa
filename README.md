@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @clarelsalassa
-- 👀 I’m interested in Cybersecurity and pentesting
-- 🌱 I’m currently learning at EPITA
+Currently doing ctf
 
 <!---
 clarelsalassa/clarelsalassa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
